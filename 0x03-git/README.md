@@ -1,1 +1,1 @@
-my first directory
+Good exercise
